@@ -8,4 +8,4 @@ The Beta is currently downloadable in "Releases" or using the QR code below:
 # Discord
 Join here: https://discord.gg/4wFsVvj7y2
 
-<img width="100" height="100" alt="QR" src="https://github.com/user-attachments/assets/388cd44d-4976-494b-8df0-38edf728ca26" />
+<img width="358" height="363" alt="FIXEDQR" src="https://github.com/user-attachments/assets/608002e5-1693-427e-9595-e7e031bb11da" />
